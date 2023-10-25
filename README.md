@@ -15,7 +15,7 @@ Esse projeto já possui o expo-router configurado, todas as telas devem ser cria
 Documentação: [`Expo Router`](https://docs.expo.dev/routing/create-pages/)
 
 ### Objetivos:
-Você precisa implementar o que foi definido anteriormente.
+Você precisa implementar for definido no desafio: [`Clique aqui`](https://github.com/cettufg/desafios-cett/blob/main/mobile.md).
 
 ## Notas
 - [Expo: Docs](https://docs.expo.dev)
