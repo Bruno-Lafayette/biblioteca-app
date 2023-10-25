@@ -7,7 +7,7 @@ Tenha instalado o aplicativo Expo Go em seu aparelho celular ou um emulador Andr
 1. Faça um fork ou baixe esse repositório.
 2. Na pasta raíz, execute ``npm install``
 3. Para executar utilize o comando ``npx expo``
-4. Autentique-se na expo.dev ou escanieie o QR Code.
+4. Autentique-se na expo.dev ou escaneie o QR Code.
 
 
 ### Rotas
